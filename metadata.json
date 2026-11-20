@@ -1,0 +1,6 @@
+{
+  "name": "Signature Smiles Clinic",
+  "description": "Dental care in Ifako, Gbagada, Lagos — routine check-ups, teeth whitening, orthodontics, implants, and restorative dentistry led by Dr. Tomi Orungbe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
